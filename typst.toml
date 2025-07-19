@@ -1,0 +1,10 @@
+[package]
+name = "mindblower"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["sermuns"]
+license = "WTFPL"
+description = "Generate mindmaps."
+homepage = "https://mindblower.samake.se"
+repository = "https://github.com/sermuns/mindblower"
+categories = ["visualization", "flyer"]
